@@ -44,3 +44,10 @@ If you want examples by team or industry, these pages show the most common dashb
 - Real-time dashboards: https://fusedash.ai/blog/post/real-time-dashboards  
 
 ## Suggested repo structure
+- Dashboards: ./dashboards  
+- Charts: ./charts  
+- Maps: ./maps  
+- Storytelling: ./storytelling  
+- Real-time interface: ./real-time-interface  
+- AI Chat: ./chat  
+- Datasets: ./datasets  
