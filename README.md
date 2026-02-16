@@ -43,7 +43,7 @@ If you want examples by team or industry, these pages show the most common dashb
 - How to build a KPI dashboard that drives decisions: https://fusedash.ai/blog/post/how-to-build-a-kpi-dashboard-that-drives-decisions  
 - Real-time dashboards: https://fusedash.ai/blog/post/real-time-dashboards  
 
-## repo structure
+## Repo structure
 - Dashboards: ./dashboards  
 - Charts: ./charts  
 - Maps: ./maps  
