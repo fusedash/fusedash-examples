@@ -1,0 +1,33 @@
+date,channel,device,country,category,sessions,add_to_cart,checkout_start,orders,revenue,aov,refunds,refund_amount
+2026-01-01,Organic Search,Desktop,US,Electronics,1240,78,52,26,3120,120.00,1,120
+2026-01-01,Paid Search,Mobile,US,Electronics,980,62,39,18,2250,125.00,0,0
+2026-01-01,Email,Desktop,UK,Home,410,46,28,14,1540,110.00,0,0
+2026-01-01,Social,Mobile,DE,Fashion,760,58,31,12,840,70.00,1,70
+2026-01-02,Organic Search,Mobile,US,Electronics,1360,92,61,31,4030,130.00,1,130
+2026-01-02,Paid Search,Desktop,US,Electronics,870,55,34,16,2080,130.00,0,0
+2026-01-02,Email,Mobile,UK,Home,390,41,26,13,1430,110.00,0,0
+2026-01-02,Social,Desktop,DE,Fashion,640,44,24,10,720,72.00,0,0
+2026-01-03,Organic Search,Desktop,US,Electronics,1180,83,54,27,3510,130.00,0,0
+2026-01-03,Paid Search,Mobile,US,Electronics,1020,66,42,19,2470,130.00,1,130
+2026-01-03,Email,Desktop,UK,Home,430,49,30,15,1710,114.00,0,0
+2026-01-03,Social,Mobile,DE,Fashion,810,61,33,13,910,70.00,1,70
+2026-01-04,Organic Search,Mobile,US,Electronics,1410,95,66,34,4420,130.00,0,0
+2026-01-04,Paid Search,Desktop,US,Electronics,900,58,37,17,2210,130.00,0,0
+2026-01-04,Email,Mobile,UK,Home,405,45,27,14,1540,110.00,0,0
+2026-01-04,Social,Desktop,DE,Fashion,690,48,26,11,792,72.00,0,0
+2026-01-05,Organic Search,Desktop,US,Electronics,1290,88,59,30,3900,130.00,1,130
+2026-01-05,Paid Search,Mobile,US,Electronics,1080,70,44,20,2600,130.00,0,0
+2026-01-05,Email,Desktop,UK,Home,455,52,33,16,1824,114.00,0,0
+2026-01-05,Social,Mobile,DE,Fashion,850,64,35,14,980,70.00,1,70
+2026-01-06,Organic Search,Mobile,US,Electronics,1460,98,69,35,4550,130.00,0,0
+2026-01-06,Paid Search,Desktop,US,Electronics,930,60,39,18,2340,130.00,0,0
+2026-01-06,Email,Mobile,UK,Home,420,47,29,14,1540,110.00,0,0
+2026-01-06,Social,Desktop,DE,Fashion,720,51,28,12,864,72.00,0,0
+2026-01-07,Organic Search,Desktop,US,Electronics,1325,90,61,31,4030,130.00,1,130
+2026-01-07,Paid Search,Mobile,US,Electronics,1105,72,46,21,2730,130.00,0,0
+2026-01-07,Email,Desktop,UK,Home,470,54,34,17,1938,114.00,0,0
+2026-01-07,Social,Mobile,DE,Fashion,880,66,36,15,1050,70.00,1,70
+2026-01-08,Organic Search,Mobile,US,Electronics,1490,101,71,36,4680,130.00,0,0
+2026-01-08,Paid Search,Desktop,US,Electronics,945,61,40,18,2340,130.00,0,0
+2026-01-08,Email,Mobile,UK,Home,435,48,30,15,1650,110.00,0,0
+2026-01-08,Social,Desktop,DE,Fashion,740,53,29,12,864,72.00,0,0
